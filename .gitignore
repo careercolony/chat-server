@@ -1,0 +1,9 @@
+/.idea
+*.DS_Store
+<<<<<<< HEAD
+project
+target
+=======
+target
+project
+>>>>>>> 413f4e4ed78808b5f39231d0f0f4e2ca3af29238
